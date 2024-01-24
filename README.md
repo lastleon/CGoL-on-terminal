@@ -4,7 +4,7 @@
 
 
 
-Small university project implementing Conways Game of Life on the terminal. Only tested on Linux.
+Quick university project implementing Conways Game of Life on the terminal. Only tested on Linux.
 Build using `make`, run using `./cgol`.
 For further information see `./cgol --help`:
 ```bash
@@ -26,4 +26,4 @@ OPTIONS:
 ```
 
 
-(Done in 2020, only now uploaded)
+(Done in 2021, only now uploaded)
